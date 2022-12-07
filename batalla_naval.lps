@@ -8,7 +8,6 @@
       <Unit>
         <Filename Value="batalla_naval.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <CursorPos X="20" Y="8"/>
         <UsageCount Value="25"/>
         <Loaded Value="True"/>
@@ -41,8 +40,10 @@
       <Unit>
         <Filename Value="juego_ppal.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="4"/>
-        <CursorPos X="25" Y="133"/>
+        <TopLine Value="294"/>
+        <CursorPos X="64" Y="316"/>
         <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit>

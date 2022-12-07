@@ -312,7 +312,7 @@ begin
                          matriz[fil, col]:= 0;
 
 
-                      //Recorrido para comprobar flota hundida
+                      //Recorrido para comprobar hundimientos
                       comprobacion_hundimientos(cont, matriz);
                       if (cont > 5) then
                          begin
