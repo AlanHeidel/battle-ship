@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="batalla_naval.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="menu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="46"/>
+        <CursorPos X="50" Y="75"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tipos_datos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="20" Y="11"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="basicos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="15" Y="7"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="juego_ppal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="25" Y="133"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="basicos.pas"/>
+        <Caret Line="15" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="basicos.pas"/>
+        <Caret Line="7" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="basicos.pas"/>
+        <Caret Line="143" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="tipos_datos.pas"/>
+        <Caret Line="27" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="basicos.pas"/>
+        <Caret Line="132" Column="30" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="basicos.pas"/>
+        <Caret Line="14" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="5" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="58" Column="16" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="65" Column="22" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="60" Column="18" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="98" Column="16" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="101" Column="22" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="100" Column="18" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="15" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="4" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="8" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="batalla_naval.pas"/>
+        <Caret Line="3" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="171" Column="39" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="173" Column="81" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="268" Column="78" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="316" Column="35" TopLine="296"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="241" Column="165" TopLine="223"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="276" Column="182" TopLine="257"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="310" Column="107" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="295" Column="138" TopLine="288"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="300" Column="155" TopLine="281"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="310" Column="221" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="156" Column="26" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="14" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="juego_ppal.pas"/>
+        <Caret Line="256" Column="30" TopLine="234"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
